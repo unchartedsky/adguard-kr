@@ -1,0 +1,17 @@
+! ###############################################
+! Whitelist
+! ###############################################
+
+! Personal websites
+@@||unchartedsky.com$document
+@@||andromedarabbit.net$document
+@@||andromedarabbit.disqus.com$document
+
+! Personal favorites
+@@||netflix.com$document
+@@||giphy.com$document
+
+! ###############################################
+! Blacklist
+! ###############################################
+||amazon-adsystem.com^$third-party
