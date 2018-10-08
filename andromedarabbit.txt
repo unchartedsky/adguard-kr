@@ -15,3 +15,5 @@
 ! Blacklist
 ! ###############################################
 ||amazon-adsystem.com^$third-party
+||ad.daum.net^$third-party
+||tiara.daum.net^$third-party
