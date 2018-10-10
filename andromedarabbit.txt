@@ -17,3 +17,5 @@
 ||amazon-adsystem.com^$third-party
 ||ad.daum.net^$third-party
 ||tiara.daum.net^$third-party
+||adinsight.co.kr^$third-party
+||criteo.net^$third-party
