@@ -1,0 +1,19 @@
+@@//app.datadoghq.com^$document
+@@||andromedarabbit.disqus.com$document
+@@||andromedarabbit.net$document
+@@||giphy.com$document
+@@||netflix.com$document
+@@||unchartedsky.com$document
+@@||www.elastic.co$document
+daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
+daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
+media.daum.net###adShopping
+news.v.daum.net###adShopping
+news1.kr###container > div.ad_wing_l:first-child
+sedaily.com###noticeAd_pc_wrap_img
+||ad.daum.net^$third-party
+||adinsight.co.kr^$third-party
+||amazon-adsystem.com^$third-party
+||criteo.net^$third-party
+||keyword.ad.daum.net^
+||tiara.daum.net^$third-party
