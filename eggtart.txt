@@ -1,0 +1,28 @@
+! ###############################################
+! Whitelist
+! ###############################################
+
+! Personal websites
+
+! Personal favorites
+
+! Dev tool Site
+@@||www.elastic.co$document
+@@//app.datadoghq.com^$document
+
+! ###############################################
+! Blacklist
+! ###############################################
+
+||keyword.ad.daum.net^
+||amazon-adsystem.com^$third-party
+||ad.daum.net^$third-party
+||tiara.daum.net^$third-party
+||adinsight.co.kr^$third-party
+||criteo.net^$third-party
+news1.kr###container > div.ad_wing_l:first-child
+sedaily.com###noticeAd_pc_wrap_img
+news.v.daum.net###adShopping
+media.daum.net###adShopping
+daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
+daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
