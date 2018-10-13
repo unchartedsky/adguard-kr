@@ -2,14 +2,16 @@
 ! Whitelist
 ! ###############################################
 
-! Personal websites
+! Personal websites: andromedarabbit
 @@||unchartedsky.com$document
 @@||andromedarabbit.net$document
 @@||andromedarabbit.disqus.com$document
 
-! Personal favorites
+! Personal favorites: andromedarabbit
+@@||evernote.com$document
 @@||netflix.com$document
 @@||giphy.com$document
+@@||admin.google.com$document
 
 ! ###############################################
 ! Blacklist

@@ -1,6 +1,8 @@
 @@//app.datadoghq.com^$document
+@@||admin.google.com$document
 @@||andromedarabbit.disqus.com$document
 @@||andromedarabbit.net$document
+@@||evernote.com$document
 @@||giphy.com$document
 @@||netflix.com$document
 @@||unchartedsky.com$document
