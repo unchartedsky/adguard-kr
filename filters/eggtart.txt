@@ -2,9 +2,9 @@
 ! Whitelist
 ! ###############################################
 
-! Personal websites
+! Personal websites: eggtart
 
-! Personal favorites
+! Personal favorites: eggtart
 
 ! Dev tool Site
 @@||www.elastic.co$document
