@@ -2,6 +2,7 @@
 @@||admin.google.com$document
 @@||andromedarabbit.disqus.com$document
 @@||andromedarabbit.net$document
+@@||developers.google.com$document
 @@||evernote.com$document
 @@||giphy.com$document
 @@||netflix.com$document

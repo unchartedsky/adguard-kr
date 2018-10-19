@@ -12,6 +12,7 @@
 @@||netflix.com$document
 @@||giphy.com$document
 @@||admin.google.com$document
+@@||developers.google.com$document
 
 ! ###############################################
 ! Blacklist
