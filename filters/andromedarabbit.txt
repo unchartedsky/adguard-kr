@@ -22,3 +22,5 @@
 ||tiara.daum.net^$third-party
 ||adinsight.co.kr^$third-party
 ||criteo.net^$third-party
+||app.link^$third-party
+||track.maillink.co.kr^$third-party
