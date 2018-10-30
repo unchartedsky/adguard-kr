@@ -8,6 +8,8 @@ You can also subscribe one of partial filters, which is managed by individuals:
 
 - [Subscribe `eggtart.txt`](https://subscribe.adblockplus.org/?location=https://github.com/unchartedsky/adguard-kr/raw/master/filters/eggtart.txt&title=EggTart)
 
+- [Subscribe `binarydiver.txt`](https://subscribe.adblockplus.org/?location=https://github.com/unchartedsky/adguard-kr/raw/master/filters/binarydiver.txt&title=BinaryDiver)
+
 ## How to build
 
 ``` bash

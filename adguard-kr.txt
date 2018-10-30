@@ -13,7 +13,9 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 media.daum.net###adShopping
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
+outlook.live.com###primaryContainer > div._n_h
 sedaily.com###noticeAd_pc_wrap_img
+www.nate.com###adContainer > div.area_ad10
 ||ad.daum.net^$third-party
 ||adinsight.co.kr^$third-party
 ||amazon-adsystem.com^$third-party
