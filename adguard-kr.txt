@@ -16,6 +16,8 @@ news1.kr###container > div.ad_wing_l:first-child
 outlook.live.com###primaryContainer > div._n_h
 sedaily.com###noticeAd_pc_wrap_img
 www.nate.com###adContainer
+www.nate.com###shopping
+www.nate.com##.area_shopping_today
 ||ad.daum.net^$third-party
 ||adinsight.co.kr^$third-party
 ||amazon-adsystem.com^$third-party
