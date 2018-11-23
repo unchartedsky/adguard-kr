@@ -25,3 +25,4 @@
 ||app.link^$third-party
 ||track.maillink.co.kr^$third-party
 ||ctrack.click.joongna.com^$third-party
+||firebaseio.com^$third-party
