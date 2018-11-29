@@ -1,3 +1,4 @@
+@@//*.onelogin.com^$document
 @@//app.datadoghq.com^$document
 @@||admin.google.com$document
 @@||andromedarabbit.disqus.com$document

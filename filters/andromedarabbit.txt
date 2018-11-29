@@ -14,6 +14,9 @@
 @@||admin.google.com$document
 @@||developers.google.com$document
 
+! Third-party websites:
+@@//*.onelogin.com^$document
+
 ! ###############################################
 ! Blacklist
 ! ###############################################
