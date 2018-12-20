@@ -8,6 +8,7 @@
 @@||andromedarabbit.disqus.com$document
 
 ! Personal favorites: andromedarabbit
+@@||mozilla.org$document
 @@||evernote.com$document
 @@||netflix.com$document
 @@||giphy.com$document

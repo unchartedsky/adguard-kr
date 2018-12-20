@@ -6,6 +6,7 @@
 @@||developers.google.com$document
 @@||evernote.com$document
 @@||giphy.com$document
+@@||mozilla.org$document
 @@||netflix.com$document
 @@||unchartedsky.com$document
 @@||www.elastic.co$document
