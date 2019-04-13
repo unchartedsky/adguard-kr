@@ -14,6 +14,7 @@ coinpan.com##.banner_img
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 media.daum.net###adShopping
+naver.com##.banner_inner
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
 outlook.live.com###primaryContainer > div._n_h
