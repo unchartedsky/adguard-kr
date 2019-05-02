@@ -16,7 +16,10 @@
 @@||developers.google.com$document
 
 ! Third-party websites:
-@@//*.onelogin.com^$document
+@@||*.onelogin.com^$document
+
+! Third-party apps:
+@@||*.istarbucks.co.kr^$app=com.starbucks.co
 
 ! ###############################################
 ! Blacklist

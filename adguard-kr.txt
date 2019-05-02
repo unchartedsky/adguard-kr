@@ -1,5 +1,6 @@
-@@//*.onelogin.com^$document
 @@//app.datadoghq.com^$document
+@@||*.istarbucks.co.kr^$app=com.starbucks.co
+@@||*.onelogin.com^$document
 @@||admin.google.com$document
 @@||andromedarabbit.disqus.com$document
 @@||andromedarabbit.net$document
