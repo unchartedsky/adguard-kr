@@ -34,5 +34,6 @@
 ||ctrack.click.joongna.com^$third-party
 ||firebaseio.com^$third-party
 ||adpanchok.co.kr^$third-party
+||cauly.co.kr^
 coinpan.com##.banner_img
 naver.com##.banner_inner

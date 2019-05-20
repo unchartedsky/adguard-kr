@@ -28,6 +28,7 @@ www.nate.com##.area_shopping_today
 ||adpanchok.co.kr^$third-party
 ||amazon-adsystem.com^$third-party
 ||app.link^$third-party
+||cauly.co.kr^
 ||criteo.net^$third-party
 ||ctrack.click.joongna.com^$third-party
 ||firebaseio.com^$third-party
