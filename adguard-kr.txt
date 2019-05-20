@@ -25,6 +25,7 @@ www.nate.com###shopping
 www.nate.com##.area_shopping_today
 ||ad.daum.net^$third-party
 ||adinsight.co.kr^$third-party
+||adpanchok.co.kr^$third-party
 ||amazon-adsystem.com^$third-party
 ||app.link^$third-party
 ||criteo.net^$third-party
