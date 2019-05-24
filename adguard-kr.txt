@@ -16,6 +16,8 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 media.daum.net###adShopping
 naver.com##.banner_inner
+news.joins.com###jpoditems
+news.joins.com##.ab_adtxt_wrap
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
 outlook.live.com###primaryContainer > div._n_h
@@ -24,14 +26,22 @@ www.nate.com###adContainer
 www.nate.com###shopping
 www.nate.com##.area_shopping_today
 ||ad.daum.net^$third-party
+||ad.imp.joins.com^$third-party
+||ad.reople.co.kr^$third-party
+||adbiz2.co.kr^$third-party
 ||adinsight.co.kr^$third-party
-||adpanchok.co.kr^$third-party
+||adpanchok.co.kr
+||adpnut.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||app.link^$third-party
 ||cauly.co.kr^
 ||criteo.net^$third-party
 ||ctrack.click.joongna.com^$third-party
+||dable.io^$third-party
+||ednplus.com^$third-party
 ||firebaseio.com^$third-party
+||innorame.com^$third-party
 ||keyword.ad.daum.net^
+||teads.tv^$third-party
 ||tiara.daum.net^$third-party
 ||track.maillink.co.kr^$third-party
