@@ -47,3 +47,20 @@ news.joins.com###jpoditems
 ||adpnut.com^$third-party
 ||adbiz2.co.kr^$third-party
 ||innorame.com^$third-party
+
+! ###############################################
+! Blacklist - 신동아
+! ###############################################
+||google-analytics.com^$domain=shindonga.donga.com,third-party
+||connect.facebook.net^$domain=shindonga.donga.com,third-party
+shindonga.donga.com###right_banner > div.banner
+shindonga.donga.com##.facebook_api
+
+! ###############################################
+! Blacklist - SKT 스마트홈
+! ###############################################
+||recopick.com^
+||adoffice.11st.co.kr^
+||glpals.com^
+||screen.buzzvil.com^
+||adservice.google.com^
