@@ -14,6 +14,7 @@
 coinpan.com##.banner_img
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
+khan.co.kr##.ad_cnt
 media.daum.net###adShopping
 naver.com##.banner_inner
 news.joins.com###jpoditems
@@ -21,6 +22,8 @@ news.joins.com##.ab_adtxt_wrap
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
 outlook.live.com###primaryContainer > div._n_h
+ppss.kr###ppss_ad2_image
+ppss.kr##.widget_text
 sedaily.com###noticeAd_pc_wrap_img
 shindonga.donga.com###right_banner > div.banner
 shindonga.donga.com##.facebook_api
@@ -28,7 +31,7 @@ www.nate.com###adContainer
 www.nate.com###shopping
 www.nate.com##.area_shopping_today
 ||ad.daum.net^$third-party
-||ad.imp.joins.com^$third-party
+||ad.imp.joins.com^$third-partys
 ||ad.reople.co.kr^$third-party
 ||adbiz2.co.kr^$third-party
 ||adinsight.co.kr^$third-party
@@ -39,12 +42,15 @@ www.nate.com##.area_shopping_today
 ||amazon-adsystem.com^$third-party
 ||app.link^$third-party
 ||cauly.co.kr^
-||connect.facebook.net^$domain=shindonga.donga.com,third-party
 ||criteo.net^$third-party
 ||ctrack.click.joongna.com^$third-party
 ||dable.io^$third-party
 ||ednplus.com^$third-party
+||facebook.com^$app=dictionary.english.freeapptck
+||facebook.net^$domain=shindonga.donga.com,third-party
+||fbcdn.net^$app=dictionary.english.freeapptck
 ||firebaseio.com^$third-party
+||ggad.whoscall.com^$app=gogolook.callgogolook2
 ||glpals.com^
 ||google-analytics.com^$domain=shindonga.donga.com,third-party
 ||innorame.com^$third-party

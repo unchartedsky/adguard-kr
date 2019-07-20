@@ -37,9 +37,6 @@
 ||cauly.co.kr^
 coinpan.com##.banner_img
 naver.com##.banner_inner
-news.joins.com##.ab_adtxt_wrap
-news.joins.com###jpoditems
-||ad.imp.joins.com^$third-party
 ||ad.reople.co.kr^$third-party
 ||ednplus.com^$third-party
 ||teads.tv^$third-party
@@ -49,12 +46,22 @@ news.joins.com###jpoditems
 ||innorame.com^$third-party
 
 ! ###############################################
-! Blacklist - 신동아
+! Blacklist - 뉴스
 ! ###############################################
+! 신동아
 ||google-analytics.com^$domain=shindonga.donga.com,third-party
-||connect.facebook.net^$domain=shindonga.donga.com,third-party
+||facebook.net^$domain=shindonga.donga.com,third-party
 shindonga.donga.com###right_banner > div.banner
 shindonga.donga.com##.facebook_api
+! PPSS
+ppss.kr###ppss_ad2_image
+ppss.kr##.widget_text
+! 경향신문
+khan.co.kr##.ad_cnt
+! 조인스
+news.joins.com##.ab_adtxt_wrap
+news.joins.com###jpoditems
+||ad.imp.joins.com^$third-partys
 
 ! ###############################################
 ! Blacklist - SKT 스마트홈
@@ -64,3 +71,12 @@ shindonga.donga.com##.facebook_api
 ||glpals.com^
 ||screen.buzzvil.com^
 ||adservice.google.com^
+
+! ###############################################
+! Blacklist - 안드로이드
+! ###############################################
+! Whoscall
+||ggad.whoscall.com^$app=gogolook.callgogolook2
+! LDOCE
+||facebook.com^$app=dictionary.english.freeapptck
+||fbcdn.net^$app=dictionary.english.freeapptck
