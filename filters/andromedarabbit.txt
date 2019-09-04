@@ -44,6 +44,8 @@ naver.com##.banner_inner
 ||adpnut.com^$third-party
 ||adbiz2.co.kr^$third-party
 ||innorame.com^$third-party
+! 중고나라
+||ctrack.click.joongna.com^
 
 ! ###############################################
 ! Blacklist - 뉴스
@@ -62,6 +64,9 @@ khan.co.kr##.ad_cnt
 news.joins.com##.ab_adtxt_wrap
 news.joins.com###jpoditems
 ||ad.imp.joins.com^$third-partys
+! 코인리더스
+||coinreaders.com/data/coinreaders_com/banner/*
+coinreaders.com##[id^="banner"]
 
 ! ###############################################
 ! Blacklist - SKT 스마트홈

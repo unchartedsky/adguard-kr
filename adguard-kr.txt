@@ -12,6 +12,7 @@
 @@||unchartedsky.com$document
 @@||www.elastic.co$document
 coinpan.com##.banner_img
+coinreaders.com##[id^="banner"]
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 khan.co.kr##.ad_cnt
@@ -42,7 +43,9 @@ www.nate.com##.area_shopping_today
 ||amazon-adsystem.com^$third-party
 ||app.link^$third-party
 ||cauly.co.kr^
+||coinreaders.com/data/coinreaders_com/banner/*
 ||criteo.net^$third-party
+||ctrack.click.joongna.com^
 ||ctrack.click.joongna.com^$third-party
 ||dable.io^$third-party
 ||ednplus.com^$third-party
