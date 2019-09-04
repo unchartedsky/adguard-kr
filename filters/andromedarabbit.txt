@@ -85,3 +85,8 @@ coinreaders.com##[id^="banner"]
 ! LDOCE
 ||facebook.com^$app=dictionary.english.freeapptck
 ||fbcdn.net^$app=dictionary.english.freeapptck
+
+! ###############################################
+! Blacklist - 확증은 없으나 미심쩍은 곳
+! ###############################################
+||external.impression-neo.naver.com^

@@ -49,6 +49,7 @@ www.nate.com##.area_shopping_today
 ||ctrack.click.joongna.com^$third-party
 ||dable.io^$third-party
 ||ednplus.com^$third-party
+||external.impression-neo.naver.com^
 ||facebook.com^$app=dictionary.english.freeapptck
 ||facebook.net^$domain=shindonga.donga.com,third-party
 ||fbcdn.net^$app=dictionary.english.freeapptck
