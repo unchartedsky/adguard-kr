@@ -67,6 +67,8 @@ news.joins.com###jpoditems
 ! 코인리더스
 ||coinreaders.com/data/coinreaders_com/banner/*
 coinreaders.com##[id^="banner"]
+bloter.net##[class^="banner"]
+bloter.net##[class$="banner"]
 
 ! ###############################################
 ! Blacklist - SKT 스마트홈
