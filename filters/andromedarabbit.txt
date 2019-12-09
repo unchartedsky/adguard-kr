@@ -20,6 +20,8 @@
 
 ! Third-party apps:
 @@||*.istarbucks.co.kr^$app=com.starbucks.co
+@@||api.branch.io^$app=com.medium.reader
+@@||cdn.branch.io^$app=com.medium.reader
 
 ! ###############################################
 ! Blacklist
@@ -87,6 +89,8 @@ bloter.net##[class$="banner"]
 ! LDOCE
 ||facebook.com^$app=dictionary.english.freeapptck
 ||fbcdn.net^$app=dictionary.english.freeapptck
+! HanaFax
+||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 
 ! ###############################################
 ! Blacklist - 확증은 없으나 미심쩍은 곳
