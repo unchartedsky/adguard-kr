@@ -20,6 +20,7 @@
 
 ! Third-party apps:
 @@||*.istarbucks.co.kr^$app=com.starbucks.co
+@@||*.branch.io^$app=com.medium.reader
 
 ! ###############################################
 ! Blacklist
@@ -46,6 +47,8 @@ naver.com##.banner_inner
 ||innorame.com^$third-party
 ! 중고나라
 ||ctrack.click.joongna.com^
+! 하나팩스
+||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 
 ! ###############################################
 ! Blacklist - 뉴스
