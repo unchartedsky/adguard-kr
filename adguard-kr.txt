@@ -18,6 +18,8 @@ coinpan.com##.banner_img
 coinreaders.com##[id^="banner"]
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
+hani.co.kr##[class^="ad-"]
+hani.co.kr##[id^="ad_"]
 khan.co.kr##.ad_cnt
 media.daum.net###adShopping
 naver.com##.banner_inner
@@ -40,7 +42,7 @@ www.nate.com##.area_shopping_today
 ||adbiz2.co.kr^$third-party
 ||adinsight.co.kr^$third-party
 ||adoffice.11st.co.kr^
-||adpanchok.co.kr
+||adpanchok.co.kr^
 ||adpnut.com^$third-party
 ||adservice.google.com^
 ||amazon-adsystem.com^$third-party
