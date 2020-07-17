@@ -75,6 +75,9 @@ bloter.net##[class$="banner"]
 ! 한겨례
 hani.co.kr##[class^="ad-"]
 hani.co.kr##[id^="ad_"]
+! 조선
+investchosun.com##div.article_content_right
+investchosun.com##div.banner
 
 ! ###############################################
 ! Blacklist - SKT 스마트홈
