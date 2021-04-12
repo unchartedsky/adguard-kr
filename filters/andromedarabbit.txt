@@ -82,11 +82,11 @@ investchosun.com##div.banner
 ! ###############################################
 ! Blacklist - SKT 스마트홈
 ! ###############################################
-||recopick.com^
-||adoffice.11st.co.kr^
-||glpals.com^
-||screen.buzzvil.com^
-||adservice.google.com^
+||recopick.com^$empty
+||adoffice.11st.co.kr^$empty
+||glpals.com^$empty
+||screen.buzzvil.com^$empty
+||adservice.google.com^$empty
 
 ! ###############################################
 ! Blacklist - 안드로이드
@@ -99,9 +99,9 @@ investchosun.com##div.banner
 ! HanaFax
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 ! 가짜뉴스
-||dailypadak.com^
+||dailypadak.com^$empty
 
 ! ###############################################
 ! Blacklist - 확증은 없으나 미심쩍은 곳
 ! ###############################################
-||external.impression-neo.naver.com^
+||external.impression-neo.naver.com^$empty
