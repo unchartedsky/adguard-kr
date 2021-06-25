@@ -35,6 +35,8 @@ ppss.kr##.widget_text
 sedaily.com###noticeAd_pc_wrap_img
 shindonga.donga.com###right_banner > div.banner
 shindonga.donga.com##.facebook_api
+thebell.co.kr##.ADVIMG
+thebell.co.kr##.article_content_banner
 www.nate.com###adContainer
 www.nate.com###shopping
 www.nate.com##.area_shopping_today

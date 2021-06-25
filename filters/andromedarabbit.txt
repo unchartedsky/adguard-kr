@@ -78,6 +78,9 @@ hani.co.kr##[id^="ad_"]
 ! 조선
 investchosun.com##div.article_content_right
 investchosun.com##div.banner
+! 더벨
+thebell.co.kr##.ADVIMG
+thebell.co.kr##.article_content_banner
 
 ! ###############################################
 ! Blacklist - SKT 스마트홈
