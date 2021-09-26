@@ -1,3 +1,4 @@
+/magazine_images/banner/*$domain=magazine.hankyung.com
 @@//app.datadoghq.com^$document
 @@||*.branch.io^$app=com.medium.reader
 @@||*.istarbucks.co.kr^$app=com.starbucks.co

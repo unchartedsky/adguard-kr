@@ -81,7 +81,8 @@ investchosun.com##div.banner
 ! 더벨
 thebell.co.kr##.ADVIMG
 thebell.co.kr##.article_content_banner
-
+! 한국경제
+/magazine_images/banner/*$domain=magazine.hankyung.com
 ! ###############################################
 ! Blacklist - SKT 스마트홈
 ! ###############################################
