@@ -10,12 +10,17 @@
 ! Personal favorites: andromedarabbit
 @@||mozilla.org$document
 @@||evernote.com$document
+@@||youtube.com^$document
 @@||netflix.com$document
 @@||giphy.com$document
 @@||admin.google.com$document
 @@||developers.google.com$document
+@@||docs.google.com^$important,document
 
-! Third-party websites:
+@@||medium.com^$document
+@@||app.gitbook.com^$important,document,~extension
+@@||dash.cloudflare.com^$important,document
+@@||dashboard-01.moengage.com^$document
 @@||*.onelogin.com^$document
 
 ! Third-party apps:
