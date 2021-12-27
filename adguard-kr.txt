@@ -38,6 +38,7 @@ news.joins.com##.ab_adtxt_wrap
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
 outlook.live.com###primaryContainer > div._n_h
+plasticsinpackaging.com##.pmpro_content_message
 ppss.kr###ppss_ad2_image
 ppss.kr##.widget_text
 sedaily.com###noticeAd_pc_wrap_img

@@ -43,6 +43,7 @@
 ||cauly.co.kr^
 coinpan.com##.banner_img
 naver.com##.banner_inner
+plasticsinpackaging.com##.pmpro_content_message
 ||ad.reople.co.kr^$third-party
 ||ednplus.com^$third-party
 ||teads.tv^$third-party
