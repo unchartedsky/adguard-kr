@@ -21,6 +21,7 @@
 @@||youtube.com^$document
 bloter.net##[class$="banner"]
 bloter.net##[class^="banner"]
+clien.net##[id^="google_ad"]
 coinpan.com##.banner_img
 coinreaders.com##[id^="banner"]
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child

@@ -88,6 +88,8 @@ thebell.co.kr##.ADVIMG
 thebell.co.kr##.article_content_banner
 ! 한국경제
 /magazine_images/banner/*$domain=magazine.hankyung.com
+! 클리앙
+clien.net##[id^="google_ad"]
 ! ###############################################
 ! Blacklist - SKT 스마트홈
 ! ###############################################
