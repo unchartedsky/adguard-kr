@@ -28,6 +28,11 @@
 @@||*.branch.io^$app=com.medium.reader
 
 ! ###############################################
+! Blacklist - 범용 규칙
+! ###############################################
+##[id^="Banner_"]
+
+! ###############################################
 ! Blacklist
 ! ###############################################
 ||amazon-adsystem.com^$third-party
@@ -55,6 +60,12 @@ plasticsinpackaging.com##.pmpro_content_message
 ||ctrack.click.joongna.com^
 ! 하나팩스
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
+
+! ###############################################
+! Blacklist - 블로그
+! ###############################################
+test-economic7.tistory.com##.revenue_unit_wrap
+krakra.tistory.com###aswoft+*
 
 ! ###############################################
 ! Blacklist - 뉴스
@@ -87,8 +98,15 @@ investchosun.com##div.banner
 ! 더벨
 thebell.co.kr##.ADVIMG
 thebell.co.kr##.article_content_banner
+! 국민일보
+news.kmib.co.kr##.__staxbn_inbox
+! 미디어오늘
+mediatoday.co.kr##[id^="AD"]
 ! 한국경제
 /magazine_images/banner/*$domain=magazine.hankyung.com
+! 뉴스1
+news1.kr##.ad_txt_article
+news1.kr##[id^="mobonDivBanner_"]
 ! 클리앙
 clien.net##[id^="google_ad"]
 ! ###############################################

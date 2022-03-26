@@ -1,3 +1,4 @@
+##[id^="Banner_"]
 /magazine_images/banner/*$domain=magazine.hankyung.com
 @@//app.datadoghq.com^$document
 @@||*.branch.io^$app=com.medium.reader
@@ -31,12 +32,17 @@ hani.co.kr##[id^="ad_"]
 investchosun.com##div.article_content_right
 investchosun.com##div.banner
 khan.co.kr##.ad_cnt
+krakra.tistory.com###aswoft+*
 media.daum.net###adShopping
+mediatoday.co.kr##[id^="AD"]
 naver.com##.banner_inner
 news.joins.com###jpoditems
 news.joins.com##.ab_adtxt_wrap
+news.kmib.co.kr##.__staxbn_inbox
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
+news1.kr##.ad_txt_article
+news1.kr##[id^="mobonDivBanner_"]
 outlook.live.com###primaryContainer > div._n_h
 plasticsinpackaging.com##.pmpro_content_message
 ppss.kr###ppss_ad2_image
@@ -44,6 +50,7 @@ ppss.kr##.widget_text
 sedaily.com###noticeAd_pc_wrap_img
 shindonga.donga.com###right_banner > div.banner
 shindonga.donga.com##.facebook_api
+test-economic7.tistory.com##.revenue_unit_wrap
 thebell.co.kr##.ADVIMG
 thebell.co.kr##.article_content_banner
 www.nate.com###adContainer
