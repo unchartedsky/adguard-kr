@@ -31,6 +31,11 @@
 ! Blacklist - 범용 규칙
 ! ###############################################
 ##[id^="Banner_"]
+##.banner_inner
+##.banner_img
+##.basic-banner
+##.basic_banner
+##.board-tail-banner
 
 ! ###############################################
 ! Blacklist
@@ -46,8 +51,6 @@
 ||firebaseio.com^$third-party
 ||adpanchok.co.kr^
 ||cauly.co.kr^
-coinpan.com##.banner_img
-naver.com##.banner_inner
 plasticsinpackaging.com##.pmpro_content_message
 ||ad.reople.co.kr^$third-party
 ||ednplus.com^$third-party
@@ -60,6 +63,8 @@ plasticsinpackaging.com##.pmpro_content_message
 ||ctrack.click.joongna.com^
 ! 하나팩스
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
+! 루리웹
+ruliweb.com###mo_ad_main_ti
 
 ! ###############################################
 ! Blacklist - 블로그
@@ -104,11 +109,16 @@ news.kmib.co.kr##.__staxbn_inbox
 mediatoday.co.kr##[id^="AD"]
 ! 한국경제
 /magazine_images/banner/*$domain=magazine.hankyung.com
+! 서울경제
+sedaily.com###targetpushAd_pc_wrap
 ! 뉴스1
 news1.kr##.ad_txt_article
 news1.kr##[id^="mobonDivBanner_"]
 ! 클리앙
 clien.net##[id^="google_ad"]
+! 커머스갤러리
+||cmcglr.com^$empty
+
 ! ###############################################
 ! Blacklist - SKT 스마트홈
 ! ###############################################

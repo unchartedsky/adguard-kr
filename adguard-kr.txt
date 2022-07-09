@@ -1,3 +1,8 @@
+##.banner_img
+##.banner_inner
+##.basic-banner
+##.basic_banner
+##.board-tail-banner
 ##[id^="Banner_"]
 /magazine_images/banner/*$domain=magazine.hankyung.com
 @@//app.datadoghq.com^$document
@@ -23,7 +28,6 @@
 bloter.net##[class$="banner"]
 bloter.net##[class^="banner"]
 clien.net##[id^="google_ad"]
-coinpan.com##.banner_img
 coinreaders.com##[id^="banner"]
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
@@ -35,7 +39,6 @@ khan.co.kr##.ad_cnt
 krakra.tistory.com###aswoft+*
 media.daum.net###adShopping
 mediatoday.co.kr##[id^="AD"]
-naver.com##.banner_inner
 news.joins.com###jpoditems
 news.joins.com##.ab_adtxt_wrap
 news.kmib.co.kr##.__staxbn_inbox
@@ -47,7 +50,9 @@ outlook.live.com###primaryContainer > div._n_h
 plasticsinpackaging.com##.pmpro_content_message
 ppss.kr###ppss_ad2_image
 ppss.kr##.widget_text
+ruliweb.com###mo_ad_main_ti
 sedaily.com###noticeAd_pc_wrap_img
+sedaily.com###targetpushAd_pc_wrap
 shindonga.donga.com###right_banner > div.banner
 shindonga.donga.com##.facebook_api
 test-economic7.tistory.com##.revenue_unit_wrap
@@ -68,6 +73,7 @@ www.nate.com##.area_shopping_today
 ||amazon-adsystem.com^$third-party
 ||app.link^$third-party
 ||cauly.co.kr^
+||cmcglr.com^$empty
 ||coinreaders.com/data/coinreaders_com/banner/*
 ||criteo.net^$third-party
 ||ctrack.click.joongna.com^
