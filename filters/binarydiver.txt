@@ -14,3 +14,8 @@ clien.net###hongboInfoList
 quasarzone.com##ul.banner-multi-wrap
 quasarzone.com###slickMainFootBanner
 quasarzone.com##aside.logo-area
+
+! ##########
+! Logging
+! ##########
+||cologger.shopping.naver.com^
