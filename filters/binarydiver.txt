@@ -1,5 +1,7 @@
-! Personal favorites: binarydiver
+! Nate
 www.nate.com###adContainer
 www.nate.com###shopping
 www.nate.com##.area_shopping_today
-outlook.live.com###primaryContainer > div._n_h
+
+! Outlook
+outlook.live.com###MainModule > div > div > div:last-child
