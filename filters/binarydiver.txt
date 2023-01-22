@@ -5,3 +5,7 @@ www.nate.com##.area_shopping_today
 
 ! Outlook
 outlook.live.com###MainModule > div > div > div:last-child
+
+! Clien
+clien.net##div.ad_banner:nth-ancestor(1)
+clien.net###hongboInfoList
