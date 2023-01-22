@@ -19,3 +19,4 @@ quasarzone.com##aside.logo-area
 ! Logging
 ! ##########
 ||cologger.shopping.naver.com^
+||kaan.kakao.com^
