@@ -9,3 +9,8 @@ outlook.live.com###MainModule > div > div > div:last-child
 ! Clien
 clien.net##div.ad_banner:nth-ancestor(1)
 clien.net###hongboInfoList
+
+! QUASAR ZONE
+quasarzone.com##ul.banner-multi-wrap
+quasarzone.com###slickMainFootBanner
+quasarzone.com##aside.logo-area
