@@ -15,6 +15,11 @@ quasarzone.com##ul.banner-multi-wrap
 quasarzone.com###slickMainFootBanner
 quasarzone.com##aside.logo-area
 
+! naver
+www.naver.com###veta_top
+www.naver.com###veta_branding
+www.naver.com###shopcast
+
 ! ##########
 ! Logging
 ! ##########
