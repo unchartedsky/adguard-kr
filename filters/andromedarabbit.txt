@@ -98,6 +98,7 @@ bloter.net##[class$="banner"]
 hani.co.kr##[class^="ad-"]
 hani.co.kr##[id^="ad_"]
 ! 조선
+investchosun.com##[class^="ad_article"]
 investchosun.com##div.article_content_right
 investchosun.com##div.banner
 ! 더벨
