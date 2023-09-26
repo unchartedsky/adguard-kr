@@ -66,6 +66,7 @@ plasticsinpackaging.com##.pmpro_content_message
 ! 루리웹
 ruliweb.com###mo_ad_main_ti
 ruliweb.com##[id^="ad_"]
+ruliweb.com###push_bar
 
 ! ###############################################
 ! Blacklist - 블로그
