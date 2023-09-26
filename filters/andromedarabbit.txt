@@ -65,6 +65,7 @@ plasticsinpackaging.com##.pmpro_content_message
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 ! 루리웹
 ruliweb.com###mo_ad_main_ti
+ruliweb.com##[id^="ad_"]
 
 ! ###############################################
 ! Blacklist - 블로그
